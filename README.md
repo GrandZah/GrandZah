@@ -8,3 +8,5 @@
   Proof: [OptimizationMethods](https://github.com/GrandZah/OptimizationMethods), [SVHN CNN (team repo)](https://github.com/whoIsClownHere/Classifying-House-Numbers-Using-Convolutional-Neural-Networks)
 - **Geo/OSM data tooling** — пайплайны и визуализация для транспортных данных OSM  
   Proof: [OpenTransportMap](https://github.com/GrandZah/OpenTransportMap)
+
+![](https://komarev.com/ghpvc/?username=GrandZah&color=grey)
