@@ -5,7 +5,7 @@
 
 ## Tech focus · 2025
 - **CV/classical ML (DL)** — практикую классические и DL-подходы на задачах комп. зрения и табличных данных  
-  Proof: [OptimizationMethods](https://github.com/GrandZah/OptimizationMethods), [SVHN CNN (team repo)](https://github.com/whoIsClownHere/Classifying-House-Numbers-Using-Convolutional-Neural-Networks)
+  Proof: [OptimizationMethods](https://github.com/GrandZah/OptimizationMethods), [SVHN CNN (team repo)](https://github.com/whoIsClownHere/Classifying-House-Numbers-Using-Convolutional-Neural-Networks), [Parser and Analysis VkusVille](https://github.com/GrandZah/Analysis-VkusVille)
 - **Geo/OSM data tooling** — пайплайны и визуализация для транспортных данных OSM  
   Proof: [OpenTransportMap](https://github.com/GrandZah/OpenTransportMap)
 
