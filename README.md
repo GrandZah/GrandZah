@@ -3,7 +3,7 @@
 Ищу стажировки и junior-позиции: **GeoData / MLE** · [📄 CV](./ZaitsevZakharCV.pdf) · [✈️ Telegram](https://t.me/terenazah)
 
 
-## Tech focus · 2025
+## Tech focus · 2025-2026
 - **CV/classical ML (DL)/Crowdsourcing** - классические подходы (на табличных данных). DL-подходы в задачах по CV (от классификации до трекинга). Работал с Crowdsourcing на Яндекс Заданиях
 
   Proof: [OptimizationMethods](https://github.com/GrandZah/OptimizationMethods), [SVHN CNN (team repo)](https://github.com/whoIsClownHere/Classifying-House-Numbers-Using-Convolutional-Neural-Networks), [Parser and Analysis VkusVille](https://github.com/GrandZah/Analysis-VkusVille), [Crowdsourcing project. Presentation](https://docs.google.com/presentation/d/1JJUiJ8kzRjytfLR0Tp6sWWwSX3vPgj9SVzpU0pF7RD4/edit?slide=id.p#slide=id.p), [Normalization-of-numbers-in-call-transcripts](https://github.com/GrandZah/Normalization-of-numbers-in-call-transcripts)
