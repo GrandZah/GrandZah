@@ -1,6 +1,6 @@
 # Захар Зайцев · AI & Analytics · CV/ML · Geo/OSM
 
-Ищу стажировки и junior-позиции: **GeoData / MLE** · [📄 CV](./ZaitsevZakharCV.pdf) · [✈️ Telegram](https://t.me/terenazah)
+Ищу стажировки и junior-позиции: **GeoData / MLE** · [📄 CV](./CV_Zahar_Zaitsev.pdf) · [✈️ Telegram](https://t.me/terenazah)
 
 
 ## Tech focus · 2025-2026
